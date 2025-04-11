@@ -147,7 +147,7 @@ const Hero = React.forwardRef<HTMLElement, HeroProps>(
 						{subtitle && (
 							<p
 								className={cn(
-									"text-xl text-muted-foreground",
+									"text-xl text-foreground/80",
 									subtitleClassName
 								)}
 							>
@@ -157,7 +157,7 @@ const Hero = React.forwardRef<HTMLElement, HeroProps>(
 						{callToAction && (
 							<p
 								className={cn(
-									"text-md text-foreground mt-10",
+									"text-md text-muted-foreground mt-10",
 									callToActionClassName
 								)}
 							>
