@@ -5,6 +5,9 @@ export default function Home() {
 	return (
 		<main className="flex flex-col items-center justify-center h-screen w-screen gap-8">
 			<Main />
+      <div className="flex justify-center items-center">
+			<img src="/logo.svg" alt="Logo The Archivist" className="w-10 h-10" />
+			</div>
 			<Footer />
 		</main>
 	);
