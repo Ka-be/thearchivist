@@ -6,7 +6,7 @@ const year = new Date().getFullYear();
 
 const Footer = () => {
     return (
-        <footer className=" absolute bottom-2 w-full flex justify-between items-center text-sm">
+        <footer className=" absolute bottom-2 w-full flex justify-between items-center text-sm px-2">
             <p>
                 <Link href="https://kevinbourgitteau.fr" target="_blank">
                     <FaUserCircle className="size-6" />
