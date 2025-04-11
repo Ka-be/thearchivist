@@ -11,7 +11,7 @@ function Main() {
 			actions={[
 				{
 					label: "Firefox",
-					href: "#",
+					href: "https://addons.mozilla.org/fr/firefox/addon/archivist/",
 					variant: "outline",
 					icon: <FaFirefoxBrowser className="size-5" />,
 				},
