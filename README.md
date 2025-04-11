@@ -13,13 +13,17 @@ _This extension was created as a way to explore how Chrome extensions work, and 
 ## 🛠 Tech Stack
 **Extension:**
 
-[![Extension stack](https://skillicons.dev/icons?i=html,css,javascript&perline=3)](https://skillicons.dev)
+[![Extension stack](https://skillicons.dev/icons?i=html,css,javascript&perline=3)](https://kevinbourgitteau.fr)
 
 **Website:**
 
-[![Website stack](https://skillicons.dev/icons?i=next,typescript,tailwindcss&perline=3)](https://skillicons.dev)
+[![Website stack](https://skillicons.dev/icons?i=next,typescript,tailwindcss&perline=3)](https://kevinbourgitteau.fr)
 
 ---
+
+## 📲 Deployment
+[![Deployment stack](https://skillicons.dev/icons?i=vercel&perline=3)](https://skillicons.dev)
+
 
 
 
