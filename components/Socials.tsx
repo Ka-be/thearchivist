@@ -1,6 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
-import { FaGithub, FaUserCircle } from 'react-icons/fa';
+import { FaGithub } from 'react-icons/fa';
 
 const Socials = () => {
     return (

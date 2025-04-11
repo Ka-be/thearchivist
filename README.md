@@ -22,6 +22,8 @@ _This extension was created as a way to explore how Chrome extensions work, and 
 ---
 
 
+
+
 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kevinbourgitteau.fr/)
