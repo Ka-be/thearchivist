@@ -22,7 +22,7 @@ _This extension was created as a way to explore how Chrome extensions work, and 
 ---
 
 ## 📲 Deployment
-[![Deployment stack](https://skillicons.dev/icons?i=vercel&perline=3)](https://skillicons.dev)
+[![Deployment stack](https://skillicons.dev/icons?i=vercel&perline=3)](https://thearchivist.vercel.app/)
 
 
 
